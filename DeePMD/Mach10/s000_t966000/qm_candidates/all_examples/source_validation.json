@@ -1,0 +1,56 @@
+{
+  "timestep": 966000,
+  "atom_count": 21400,
+  "component_count": 8901,
+  "current_bond_count": 12499,
+  "element_counts": {
+    "N": 17600,
+    "C": 1200,
+    "H": 2600
+  },
+  "species_counts": {
+    "N2": 8800,
+    "C12H26": 99,
+    "C5H11": 1,
+    "C7H15": 1
+  },
+  "pbc": [
+    false,
+    true,
+    true
+  ],
+  "box_bounds_angstrom": [
+    [
+      0.0,
+      3240.0
+    ],
+    [
+      0.0,
+      150.0
+    ],
+    [
+      0.0,
+      150.0
+    ]
+  ],
+  "max_source_bond_vector_error_A": 1.3988810110276972e-14,
+  "longest_current_bond_A": 1.7998404179259644,
+  "source_geometry_warning_count": 0,
+  "validation_scope": "Internal file/coordinate consistency only; not independent validation of the chemical topology or DFT accuracy.",
+  "sources": [
+    {
+      "name": "snapshot.npz",
+      "sha256": "adfd14defc6b18daae84c4708eb587e915554baf56141221c79d9337c7873263"
+    },
+    {
+      "name": "components.json.gz",
+      "sha256": "2d5ae1b5683e6e8af2997c33c0af5929952beafe6ccbdaca82719311d852aac9"
+    },
+    {
+      "name": "metadata.json",
+      "sha256": "e11cebf84a414f4a0a92ed095253ec891afdd5e6eff73d9e322c66b590703a35"
+    }
+  ],
+  "bond_definition": "precomputed_fragments_plus_qualified_formation_intervals",
+  "include_reformed_original_bonds": false
+}

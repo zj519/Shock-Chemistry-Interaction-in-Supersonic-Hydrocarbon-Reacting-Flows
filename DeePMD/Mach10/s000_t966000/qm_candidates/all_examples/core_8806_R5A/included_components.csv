@@ -1,0 +1,6 @@
+component_id,role,formula,atom_count,minimum_distance_to_core_A,closest_core_atom_id,closest_component_atom_id,shift_x_boxes_from_xyz_component,shift_y_boxes_from_xyz_component,shift_z_boxes_from_xyz_component,original_molecule_labels,atom_ids
+617,environment,N2,2,3.565474701915562,17794,1234,0,0,0,"[""N2/f617""]","[1233,1234]"
+1761,environment,N2,2,4.328243971866659,17793,3521,0,0,0,"[""N2/f1761""]","[3521,3522]"
+3425,environment,N2,2,2.2322537534967983,17807,6850,0,0,0,"[""N2/f3425""]","[6849,6850]"
+8806,core,C5H11,16,0.0,,,0,0,0,"[""C12H26/f6""]","[17791,17792,17793,17794,17795,17796,17797,17798,17799,17800,17801,17802,17803,17804,17806,17807]"
+8807,environment,C7H15,22,2.5957087702590953,17806,17816,0,0,0,"[""C12H26/f6""]","[17805,17808,17809,17810,17811,17812,17813,17814,17815,17816,17817,17818,17819,17820,17821,17822,17823,17824,17825,17826,17827,17828]"
